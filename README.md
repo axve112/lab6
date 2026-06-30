@@ -3,3 +3,5 @@
 1.ModelScope环境配置：阿里云魔搭社区（ModelScope）是一个稳定、免费、且自带预装深度学习环境的纯净云平台。它为实名认证用户提供免费的 GPU 算力（基于阿里云 DSW 实验室），能够尽可能避免不同操作系统下环境配置带来的困难。
 进入社区以后，等待几分钟，机器启动完成后，点击 “查看Notebook” 进入网页版的编程界面（JupyterLab）。 在师大云盘链接中下载cow.obj​ 。将文件直接拖拽到云平台中​。 在模型同目录下新建ipynb文件
 以后运行相关代码即可，最终成果上传到该库中
+
+<img width="865" height="556" alt="image" src="https://github.com/user-attachments/assets/3b6d8a12-a9e4-4880-b535-58e930c61a82" />
